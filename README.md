@@ -1,105 +1,140 @@
-<h1 align="center">Achuka Simon Allan</h1>
+<!-- Premium GitHub Profile README -->
+
+<h1 align="center">
+  Achuka Simon Allan
+</h1>
 
 <p align="center">
-  <strong>Software Engineer | Data Scientist | AI Researcher</strong>
-</p>
-
-<p align="center">
-  I build AI software products in <strong>Computer Vision</strong> and 
-  <strong>Natural Language Processing</strong>, with a strong focus on 
-  <strong>Voice AI for low-resource African languages</strong>.
+  <strong>Software Engineer • Data Scientist • AI Researcher</strong>
 </p>
 
 <p align="center">
-  My mission is to develop speech technologies that preserve and empower 
-  local linguistic communities across Africa.
+  Building intelligent systems in <strong>Computer Vision</strong> and 
+  <strong>Natural Language Processing</strong>.<br/>
+  Specializing in <strong>Voice AI for Low-Resource African Languages</strong>.
 </p>
 
-<hr/>
-
-<h2>About Me</h2>
-
-<ul>
-  <li>Deep Learning model development</li>
-  <li>Speech Recognition & Voice AI systems</li>
-  <li>NLP for low-resource languages</li>
-  <li>Computer Vision applications</li>
-  <li>Model deployment & production AI systems</li>
-</ul>
-
-<hr/>
-
-<h2>Current Focus</h2>
-
-<ul>
-  <li>Building Voice AI products for African languages</li>
-  <li>End-to-end ASR and speech systems</li>
-  <li>Research in low-resource language modeling</li>
-  <li>Scalable AI infrastructure</li>
-</ul>
-
-<hr/>
-
-<h2>Tech Stack</h2>
-
-<h3>Languages</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <em>Advancing speech technology to preserve and empower African linguistic communities.</em>
 </p>
 
-<h3>AI / ML</h3>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NVIDIA%20NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<!-- Divider -->
+<p align="center">
+  ─────────────────────────────────────────
 </p>
 
-<h3>Backend & Deployment</h3>
+<h2 align="center">About</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="center" width="70%">
+I design and deploy scalable AI systems solving real-world African problems.
+My work spans deep learning research, production-grade ML systems,
+and end-to-end speech technology pipelines.
 </p>
 
-<hr/>
+<br/>
 
-<h2>Research Interests</h2>
+<h3 align="center">Core Areas</h3>
 
-<ul>
-  <li>Automatic Speech Recognition (ASR)</li>
-  <li>Speech Synthesis & Voice Cloning</li>
-  <li>Low-resource Language Modeling</li>
-  <li>Multilingual NLP</li>
-  <li>AI for Africa</li>
-</ul>
-
-<hr/>
-
-<h2>Collaboration</h2>
-
-<p>
-I am open to collaborating on:
+<p align="center">
+  • Deep Learning Architecture Design <br/>
+  • Automatic Speech Recognition (ASR) <br/>
+  • Low-Resource NLP Systems <br/>
+  • Computer Vision Applications <br/>
+  • Production ML & Model Deployment
 </p>
 
-<ul>
-  <li>Voice AI research projects</li>
-  <li>Low-resource language datasets</li>
-  <li>AI startups and applied ML systems</li>
-  <li>Open-source AI tools for Africa</li>
-</ul>
+<br/>
 
-<hr/>
+<h2 align="center">Current Focus</h2>
 
-<h2>Contact</h2>
+<p align="center">
+  Building scalable Voice AI infrastructure for African languages<br/>
+  End-to-end ASR systems & speech modeling research<br/>
+  Multilingual & low-resource language modeling<br/>
+  High-performance AI deployment pipelines
+</p>
 
-<p>
-  📧 <strong>Email:</strong> simonallanachuka@gmail.com
+<br/>
+
+<h2 align="center">Technology Stack</h2>
+
+<br/>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<h3 align="center">AI / ML</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20NeMo-111111?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<h3 align="center">Infrastructure</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-111111?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+<br/>
+
+<h2 align="center">Research Interests</h2>
+
+<p align="center">
+  Speech Synthesis & Voice Modeling<br/>
+  Multilingual NLP Systems<br/>
+  Self-Supervised Learning for Speech<br/>
+  AI Infrastructure for Emerging Markets
+</p>
+
+<br/>
+
+<h2 align="center">Open to Collaboration</h2>
+
+<p align="center">
+  Voice AI research initiatives<br/>
+  Low-resource language datasets<br/>
+  AI startups & applied ML systems<br/>
+  Open-source AI tools for Africa
+</p>
+
+<br/>
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  simonallanachuka@gmail.com
+</p>
+
+<br/>
+
+<!-- GitHub Stats Section -->
+
+<h2 align="center">GitHub Metrics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achuka99&show_icons=true&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achuka99&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <em>Building the future of Voice AI for Africa.</em>
 </p>
